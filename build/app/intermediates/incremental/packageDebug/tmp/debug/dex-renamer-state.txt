@@ -1,0 +1,4 @@
+#Sun Mar 29 13:40:01 CEST 2020
+base.0=/home/raul/proyectos/flutter/contador/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
