@@ -1,16 +1,12 @@
 # contador
 
-A new Flutter project.
+Aplicación default de flutter
 
-## Getting Started
+## Mejoras
 
-This project is a starting point for a Flutter application.
+En este proyecto realizado en un curso de flutter, hemos mejorado 2 aspectos de la aplicacion por defecto que crea flutter al crear un nuevo pryecto
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Hemos mejorado la estructura del código para hacerlo mas fácil de leer y separar funcionalidades.
+- Hemos añadido 2 botones extras
+    - Restar
+    - Resetear a 0
